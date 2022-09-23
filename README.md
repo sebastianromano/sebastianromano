@@ -5,4 +5,5 @@ I'm currently studying for a [**Master's Degree in Software Design**](https://en
 My research topics are partly focused on 
 1. **Technical Interaction Design** 
 2. **Software Development & Technology** 
+
 A significant portion of the individual **course** assignments and tasks are [featured here](https://github.com/stars/sebastianromano/lists/itu), as well as all other [**projects**](https://github.com/sebastianromano?tab=repositories&q=&type=&language=&sort=) I'm currently working on / have previously worked on.
