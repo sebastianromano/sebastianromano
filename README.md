@@ -7,4 +7,4 @@ My research topics / specialisations at ITU are divided into two main areas: **T
 
 A significant amount of the individual *course assignments, tasks and projects* I've worked on during my studies can be found in the [list of ITU courses](https://github.com/stars/sebastianromano/lists/itu) or by searching for the `IT University of Copenhagen` keyword in [repositories](https://github.com/sebastianromano?tab=repositories&q=IT+University+of+Copenhagen&type=&language=&sort=).
 
-Additionally, [all my other projects and contributions](https://github.com/sebastianromano?tab=repositories&q=&type=&language=&sort=) can be found there as well. 
+Additionally, [all my other projects and contributions](https://github.com/sebastianromano?tab=repositories&q=NOT+itu&type=&language=&sort=) can be found there as well. 
