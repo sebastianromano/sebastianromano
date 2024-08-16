@@ -1,10 +1,8 @@
 # Hi there, I'm Sebastian 👋
-This GitHub profile is a collection of my projects and contributions to others' projects, as well as a place to share thoughts, ideas, knowledge and experiences.
 
-I'm currently studying for a [**Master's Degree in Software Design**](https://en.itu.dk/Programmes/MSc-Programmes/Software-Design#specialisations) at, as well as working for, the [**IT University of Copenhagen**](http://en.itu.dk). 
+This GitHub profile serves as a repository for my projects and contributions to other projects. It is also a platform where I can share my thoughts, ideas, knowledge, and experiences.
 
-My research topics / specialisations at ITU are divided into two main areas: **Technical Interaction Design** and **Software Development & Technology**. 
+Previously, I've studied at - and worked for - the [**IT University of Copenhagen**](http://en.itu.dk). During my [**Master's Degree in Software Design**](https://en.itu.dk/Programmes/MSc-Programmes/Software-Design#specialisations), I've focused on the areas of **Technical Interaction Design** and **Software Development & Technology**.
 
-A significant amount of the individual *course assignments, tasks and projects* I've worked on during my studies can be found in the [list of ITU courses](https://github.com/stars/sebastianromano/lists/itu) or by searching for the `IT University of Copenhagen` keyword in [repositories](https://github.com/sebastianromano?tab=repositories&q=IT+University+of+Copenhagen&type=&language=&sort=).
-
-Additionally, [all my other projects and contributions](https://github.com/sebastianromano?tab=repositories&q=NOT+itu&type=&language=&sort=) can be found there as well. 
+A considerable number of the *course assignments, tasks, and various projects* I have worked on during my studies can be found in the [list of ITU courses](https://github.com/stars/sebastianromano/lists/itu) or by searching for the keyword `IT University of Copenhagen` in my [repositories](https://github.com/sebastianromano?tab=repositories&q=IT+University+of+Copenhagen&type=&language=&sort=).
+Additionally, [all my other projects and contributions](https://github.com/sebastianromano?tab=repositories&q=NOT+itu&type=&language=&sort=) can be found there as well.
