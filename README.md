@@ -1,6 +1,6 @@
 # Hi there, I'm Sebastian 👋
 
-I am a software developer currently working on solutions to provide transcriptions and AI summarizations / suggestions for a Danish company.
+I am currently employed as a software developer, where I focus on developing solutions that provide transcriptions and AI summarizations/suggestions for a Danish company.
 
 This GitHub profile serves as a repository for my projects and contributions to other projects. It is also a platform where I can share my thoughts, ideas, knowledge, and experiences.
 
